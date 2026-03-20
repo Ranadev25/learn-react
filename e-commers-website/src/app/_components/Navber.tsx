@@ -4,7 +4,7 @@ import SearchMenu from './SearchMenu'
 
 const Navber = () => {
   return (
-    <div className='relative '>
+    <div className='relative bg-[#F85606] px-5 '>
       <NavberTop />
       <SearchMenu/>
     </div>

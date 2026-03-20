@@ -1,11 +1,11 @@
-// import Image from "next/image";
+import Banners from "./_components/Banners";
 import Navber from "./_components/Navber";
-// import LanguageSwitcher from "./LanguageSwitcher";
 
 export default function Home() {
   return (
-    <div className="bg-orange-500 px-5">
-      <Navber/>
+    <div className="max-w-400 mx-auto bg-gray-50">
+      <Navber />
+      <Banners/>
       
     </div>
   );
