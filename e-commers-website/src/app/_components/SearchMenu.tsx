@@ -5,7 +5,7 @@ import Logo from "./../../../public/image/home/photo/darazLogo.png"
 
 const SearchMenu = () => {
   return (
-    <div>
+    <div className="">
       <div className="flex text-[#FFFFFF] py-3 pb-6">
         <div className="w-[30%] sm:w-2/10">
           <Image className="sm:w-6/10" src={Logo} alt=""></Image>
