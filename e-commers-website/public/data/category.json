@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "category": "Electronics",
+    "image": "https://i.ibb.co.com/2166HcJf/Electronics.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Furniture",
+    "image": "https://i.ibb.co.com/fGN45RKx/Furniture.webp"
+  },
+  {
+    "id": 3,
+    "category": "Footwear",
+    "image": "https://i.ibb.co.com/kVcBMsb1/Footwear.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Gardening",
+    "image": "https://i.ibb.co.com/VYQBQbXQ/Gardening.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Automotive",
+    "image": "https://i.ibb.co.com/jkvwxS4C/Automotive.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Toys",
+    "image": "https://i.ibb.co.com/vvDgs5Mf/Toys.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Stationery",
+    "image": "https://i.ibb.co.com/Gf6Sb5xJ/Stationery.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Jewelry",
+    "image": "https://i.ibb.co.com/bRvTFB3b/Jewelry.jpg"
+  },
+  {
+    "id": 9,
+    "category": "Musical Instruments",
+    "image": "https://i.ibb.co.com/RpGNGrzh/Musical-Instruments.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Cosmetics",
+    "image": "https://i.ibb.co.com/F4z2BhHD/Cosmetics.jpg"
+  },
+  {
+    "id": 11,
+    "category": "Sports Equipment",
+    "image": "https://i.ibb.co.com/v45hRx0K/Sports-Equipment.jpg"
+  },
+  {
+    "id": 12,
+    "category": "Kitchenware",
+    "image": "https://i.ibb.co.com/GvNs21qX/Kitchenware.jpg"
+  },
+  {
+    "id": 13,
+    "category": "Pet Supplies",
+    "image": "https://i.ibb.co.com/jZBvkYPs/Pet-Supplies.jpg"
+  },
+  {
+    "id": 14,
+    "category": "Books",
+    "image": "https://i.ibb.co.com/Qv1bK34H/Books.jpg"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "name": "Deep Learning with Python",
+    "category": "books",
+    "image": "https://picsum.photos/seed/1/400/400",
+    "price": 45,
+    "oldPrice": 55,
+    "discount": "18%",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Automatic Pet Feeder",
+    "category": "pet supplies",
+    "image": "https://picsum.photos/seed/2/400/400",
+    "price": 89,
+    "oldPrice": 120,
+    "discount": "25%",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Air Fryer Pro 5L",
+    "category": "kitchenware",
+    "image": "https://picsum.photos/seed/3/400/400",
+    "price": 120,
+    "oldPrice": 150,
+    "discount": "20%",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Yoga Mat with Alignment Lines",
+    "category": "sports equipment",
+    "image": "https://picsum.photos/seed/4/400/400",
+    "price": 35,
+    "oldPrice": 50,
+    "discount": "30%",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Hydrating Face Cream",
+    "category": "cosmetics",
+    "image": "https://picsum.photos/seed/5/400/400",
+    "price": 28,
+    "oldPrice": 40,
+    "discount": "30%",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Electronic Keyboard 61 Keys",
+    "category": "musical instruments",
+    "image": "https://picsum.photos/seed/6/400/400",
+    "price": 199,
+    "oldPrice": 250,
+    "discount": "20%",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Sterling Silver Earrings",
+    "category": "jewelry",
+    "image": "https://picsum.photos/seed/7/400/400",
+    "price": 75,
+    "oldPrice": 100,
+    "discount": "25%",
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "name": "Bullet Journal Notebook",
+    "category": "stationery",
+    "image": "https://picsum.photos/seed/8/400/400",
+    "price": 15,
+    "oldPrice": 20,
+    "discount": "25%",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "Lego Star Wars Set",
+    "category": "toys",
+    "image": "https://picsum.photos/seed/9/400/400",
+    "price": 55,
+    "oldPrice": 70,
+    "discount": "21%",
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "name": "Portable Car Vacuum",
+    "category": "automotive",
+    "image": "https://picsum.photos/seed/10/400/400",
+    "price": 40,
+    "oldPrice": 60,
+    "discount": "33%",
+    "rating": 4.2
+  },
+  {
+    "id": 11,
+    "name": "Pruning Shears Set",
+    "category": "gardening",
+    "image": "https://picsum.photos/seed/11/400/400",
+    "price": 22,
+    "oldPrice": 30,
+    "discount": "26%",
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "name": "Leather Chelsea Boots",
+    "category": "footwear",
+    "image": "https://picsum.photos/seed/12/400/400",
+    "price": 110,
+    "oldPrice": 160,
+    "discount": "31%",
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "name": "Minimalist Coffee Table",
+    "category": "furniture",
+    "image": "https://picsum.photos/seed/13/400/400",
+    "price": 240,
+    "oldPrice": 300,
+    "discount": "20%",
+    "rating": 4.4
+  },
+  {
+    "id": 14,
+    "name": "Smartwatch Series 7",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/14/400/400",
+    "price": 350,
+    "oldPrice": 450,
+    "discount": "22%",
+    "rating": 4.7
+  },
+  {
+    "id": 15,
+    "name": "The Great Gatsby Special Edition",
+    "category": "books",
+    "image": "https://picsum.photos/seed/15/400/400",
+    "price": 25,
+    "oldPrice": 30,
+    "discount": "16%",
+    "rating": 4.9
+  },
+  {
+    "id": 16,
+    "name": "Cat Scratching Post",
+    "category": "pet supplies",
+    "image": "https://picsum.photos/seed/16/400/400",
+    "price": 45,
+    "oldPrice": 55,
+    "discount": "18%",
+    "rating": 4.3
+  },
+  {
+    "id": 17,
+    "name": "Non-stick Sauté Pan",
+    "category": "kitchenware",
+    "image": "https://picsum.photos/seed/17/400/400",
+    "price": 65,
+    "oldPrice": 85,
+    "discount": "23%",
+    "rating": 4.8
+  },
+  {
+    "id": 18,
+    "name": "Adjustable Dumbbells",
+    "category": "sports equipment",
+    "image": "https://picsum.photos/seed/18/400/400",
+    "price": 150,
+    "oldPrice": 200,
+    "discount": "25%",
+    "rating": 4.7
+  },
+  {
+    "id": 19,
+    "name": "Sunscreen SPF 50",
+    "category": "cosmetics",
+    "image": "https://picsum.photos/seed/19/400/400",
+    "price": 18,
+    "oldPrice": 25,
+    "discount": "28%",
+    "rating": 4.5
+  },
+  {
+    "id": 20,
+    "name": "Beginner Ukulele Kit",
+    "category": "musical instruments",
+    "image": "https://picsum.photos/seed/20/400/400",
+    "price": 60,
+    "oldPrice": 80,
+    "discount": "25%",
+    "rating": 4.6
+  },
+  {
+    "id": 21,
+    "name": "Diamond Stud Earrings",
+    "category": "jewelry",
+    "image": "https://picsum.photos/seed/21/400/400",
+    "price": 450,
+    "oldPrice": 600,
+    "discount": "25%",
+    "rating": 4.9
+  },
+  {
+    "id": 22,
+    "name": "Graphing Calculator",
+    "category": "stationery",
+    "image": "https://picsum.photos/seed/22/400/400",
+    "price": 95,
+    "oldPrice": 120,
+    "discount": "20%",
+    "rating": 4.4
+  },
+  {
+    "id": 23,
+    "name": "Remote Control Helicopter",
+    "category": "toys",
+    "image": "https://picsum.photos/seed/23/400/400",
+    "price": 45,
+    "oldPrice": 70,
+    "discount": "35%",
+    "rating": 4.1
+  },
+  {
+    "id": 24,
+    "name": "Dashboard Camera 4K",
+    "category": "automotive",
+    "image": "https://picsum.photos/seed/24/400/400",
+    "price": 130,
+    "oldPrice": 180,
+    "discount": "27%",
+    "rating": 4.7
+  },
+  {
+    "id": 25,
+    "name": "Hanging Garden Chair",
+    "category": "gardening",
+    "image": "https://picsum.photos/seed/25/400/400",
+    "price": 180,
+    "oldPrice": 250,
+    "discount": "28%",
+    "rating": 4.6
+  },
+  {
+    "id": 26,
+    "name": "Comfort Walking Sneakers",
+    "category": "footwear",
+    "image": "https://picsum.photos/seed/26/400/400",
+    "price": 65,
+    "oldPrice": 90,
+    "discount": "27%",
+    "rating": 4.3
+  },
+  {
+    "id": 27,
+    "name": "Ergonomic Desk Chair",
+    "category": "furniture",
+    "image": "https://picsum.photos/seed/27/400/400",
+    "price": 299,
+    "oldPrice": 400,
+    "discount": "25%",
+    "rating": 4.8
+  },
+  {
+    "id": 28,
+    "name": "Bluetooth Wireless Speaker",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/28/400/400",
+    "price": 80,
+    "oldPrice": 110,
+    "discount": "27%",
+    "rating": 4.5
+  },
+  {
+    "id": 29,
+    "name": "Mystery of the Blue Nile",
+    "category": "books",
+    "image": "https://picsum.photos/seed/29/400/400",
+    "price": 12,
+    "oldPrice": 20,
+    "discount": "40%",
+    "rating": 4.1
+  },
+  {
+    "id": 30,
+    "name": "Bird Seed Mix 5kg",
+    "category": "pet supplies",
+    "image": "https://picsum.photos/seed/30/400/400",
+    "price": 25,
+    "oldPrice": 30,
+    "discount": "16%",
+    "rating": 4.6
+  },
+  {
+    "id": 31,
+    "name": "Silicone Spatula Set",
+    "category": "kitchenware",
+    "image": "https://picsum.photos/seed/31/400/400",
+    "price": 15,
+    "oldPrice": 22,
+    "discount": "31%",
+    "rating": 4.8
+  },
+  {
+    "id": 32,
+    "name": "Soccer Ball Size 5",
+    "category": "sports equipment",
+    "image": "https://picsum.photos/seed/32/400/400",
+    "price": 20,
+    "oldPrice": 35,
+    "discount": "42%",
+    "rating": 4.4
+  },
+  {
+    "id": 33,
+    "name": "Organic Night Cream",
+    "category": "cosmetics",
+    "image": "https://picsum.photos/seed/33/400/400",
+    "price": 32,
+    "oldPrice": 45,
+    "discount": "28%",
+    "rating": 4.3
+  },
+  {
+    "id": 34,
+    "name": "Harmonica in C Major",
+    "category": "musical instruments",
+    "image": "https://picsum.photos/seed/34/400/400",
+    "price": 25,
+    "oldPrice": 40,
+    "discount": "37%",
+    "rating": 4.7
+  },
+  {
+    "id": 35,
+    "name": "Cufflinks - Onyx Inlay",
+    "category": "jewelry",
+    "image": "https://picsum.photos/seed/35/400/400",
+    "price": 50,
+    "oldPrice": 75,
+    "discount": "33%",
+    "rating": 4.5
+  },
+  {
+    "id": 36,
+    "name": "Calligraphy Set",
+    "category": "stationery",
+    "image": "https://picsum.photos/seed/36/400/400",
+    "price": 28,
+    "oldPrice": 35,
+    "discount": "20%",
+    "rating": 4.6
+  },
+  {
+    "id": 37,
+    "name": "Plush Teddy Bear",
+    "category": "toys",
+    "image": "https://picsum.photos/seed/37/400/400",
+    "price": 18,
+    "oldPrice": 25,
+    "discount": "28%",
+    "rating": 4.9
+  },
+  {
+    "id": 38,
+    "name": "Microfiber Car Towels",
+    "category": "automotive",
+    "image": "https://picsum.photos/seed/38/400/400",
+    "price": 12,
+    "oldPrice": 18,
+    "discount": "33%",
+    "rating": 4.2
+  },
+  {
+    "id": 39,
+    "name": "Heavy Duty Garden Hose",
+    "category": "gardening",
+    "image": "https://picsum.photos/seed/39/400/400",
+    "price": 45,
+    "oldPrice": 60,
+    "discount": "25%",
+    "rating": 4.7
+  },
+  {
+    "id": 40,
+    "name": "Slip-on Loafers",
+    "category": "footwear",
+    "image": "https://picsum.photos/seed/40/400/400",
+    "price": 55,
+    "oldPrice": 80,
+    "discount": "31%",
+    "rating": 4.3
+  },
+  {
+    "id": 41,
+    "name": "Wooden Nightstand",
+    "category": "furniture",
+    "image": "https://picsum.photos/seed/41/400/400",
+    "price": 120,
+    "oldPrice": 180,
+    "discount": "33%",
+    "rating": 4.5
+  },
+  {
+    "id": 42,
+    "name": "USB-C Fast Charger",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/42/400/400",
+    "price": 19,
+    "oldPrice": 29,
+    "discount": "34%",
+    "rating": 4.6
+  },
+  {
+    "id": 43,
+    "name": "Gourmet Cookbook",
+    "category": "books",
+    "image": "https://picsum.photos/seed/43/400/400",
+    "price": 30,
+    "oldPrice": 40,
+    "discount": "25%",
+    "rating": 4.8
+  },
+  {
+    "id": 44,
+    "name": "Hamster Travel Cage",
+    "category": "pet supplies",
+    "image": "https://picsum.photos/seed/44/400/400",
+    "price": 22,
+    "oldPrice": 30,
+    "discount": "26%",
+    "rating": 4.2
+  },
+  {
+    "id": 45,
+    "name": "Digital Kitchen Scale",
+    "category": "kitchenware",
+    "image": "https://picsum.photos/seed/45/400/400",
+    "price": 15,
+    "oldPrice": 25,
+    "discount": "40%",
+    "rating": 4.7
+  },
+  {
+    "id": 46,
+    "name": "Resistance Bands Set",
+    "category": "sports equipment",
+    "image": "https://picsum.photos/seed/46/400/400",
+    "price": 18,
+    "oldPrice": 28,
+    "discount": "35%",
+    "rating": 4.5
+  },
+  {
+    "id": 47,
+    "name": "Clay Face Mask",
+    "category": "cosmetics",
+    "image": "https://picsum.photos/seed/47/400/400",
+    "price": 14,
+    "oldPrice": 20,
+    "discount": "30%",
+    "rating": 4.4
+  },
+  {
+    "id": 48,
+    "name": "Drumsticks 5A Hickory",
+    "category": "musical instruments",
+    "image": "https://picsum.photos/seed/48/400/400",
+    "price": 12,
+    "oldPrice": 18,
+    "discount": "33%",
+    "rating": 4.9
+  },
+  {
+    "id": 49,
+    "name": "Pearl Bracelet",
+    "category": "jewelry",
+    "image": "https://picsum.photos/seed/49/400/400",
+    "price": 85,
+    "oldPrice": 120,
+    "discount": "29%",
+    "rating": 4.7
+  },
+  {
+    "id": 50,
+    "name": "Mechanical Pencil Set",
+    "category": "stationery",
+    "image": "https://picsum.photos/seed/50/400/400",
+    "price": 10,
+    "oldPrice": 15,
+    "discount": "33%",
+    "rating": 4.6
+  },
+  {
+    "id": 51,
+    "name": "Board Game Strategy",
+    "category": "toys",
+    "image": "https://picsum.photos/seed/51/400/400",
+    "price": 45,
+    "oldPrice": 60,
+    "discount": "25%",
+    "rating": 4.8
+  },
+  {
+    "id": 52,
+    "name": "Car Phone Mount",
+    "category": "automotive",
+    "image": "https://picsum.photos/seed/52/400/400",
+    "price": 15,
+    "oldPrice": 25,
+    "discount": "40%",
+    "rating": 4.1
+  },
+  {
+    "id": 53,
+    "name": "Solar Garden Lights",
+    "category": "gardening",
+    "image": "https://picsum.photos/seed/53/400/400",
+    "price": 35,
+    "oldPrice": 50,
+    "discount": "30%",
+    "rating": 4.3
+  },
+  {
+    "id": 54,
+    "name": "Waterproof Rain Boots",
+    "category": "footwear",
+    "image": "https://picsum.photos/seed/54/400/400",
+    "price": 40,
+    "oldPrice": 65,
+    "discount": "38%",
+    "rating": 4.5
+  },
+  {
+    "id": 55,
+    "name": "Bean Bag Chair",
+    "category": "furniture",
+    "image": "https://picsum.photos/seed/55/400/400",
+    "price": 60,
+    "oldPrice": 90,
+    "discount": "33%",
+    "rating": 4.4
+  },
+  {
+    "id": 56,
+    "name": "Portable Power Bank",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/56/400/400",
+    "price": 45,
+    "oldPrice": 65,
+    "discount": "30%",
+    "rating": 4.7
+  },
+  {
+    "id": 57,
+    "name": "Sci-Fi Paperback",
+    "category": "books",
+    "image": "https://picsum.photos/seed/57/400/400",
+    "price": 10,
+    "oldPrice": 15,
+    "discount": "33%",
+    "rating": 4.2
+  },
+  {
+    "id": 58,
+    "name": "Aquarium Filter",
+    "category": "pet supplies",
+    "image": "https://picsum.photos/seed/58/400/400",
+    "price": 30,
+    "oldPrice": 45,
+    "discount": "33%",
+    "rating": 4.5
+  },
+  {
+    "id": 59,
+    "name": "Magnetic Knife Strip",
+    "category": "kitchenware",
+    "image": "https://picsum.photos/seed/59/400/400",
+    "price": 20,
+    "oldPrice": 30,
+    "discount": "33%",
+    "rating": 4.6
+  },
+  {
+    "id": 60,
+    "name": "Boxing Gloves",
+    "category": "sports equipment",
+    "image": "https://picsum.photos/seed/60/400/400",
+    "price": 55,
+    "oldPrice": 80,
+    "discount": "31%",
+    "rating": 4.8
+  },
+  {
+    "id": 61,
+    "name": "Mascara Waterproof",
+    "category": "cosmetics",
+    "image": "https://picsum.photos/seed/61/400/400",
+    "price": 12,
+    "oldPrice": 20,
+    "discount": "40%",
+    "rating": 4.4
+  },
+  {
+    "id": 62,
+    "name": "Guitar Tuner",
+    "category": "musical instruments",
+    "image": "https://picsum.photos/seed/62/400/400",
+    "price": 15,
+    "oldPrice": 25,
+    "discount": "40%",
+    "rating": 4.9
+  },
+  {
+    "id": 63,
+    "name": "Silver Bangle",
+    "category": "jewelry",
+    "image": "https://picsum.photos/seed/63/400/400",
+    "price": 45,
+    "oldPrice": 70,
+    "discount": "35%",
+    "rating": 4.6
+  },
+  {
+    "id": 64,
+    "name": "Desktop Organizer",
+    "category": "stationery",
+    "image": "https://picsum.photos/seed/64/400/400",
+    "price": 22,
+    "oldPrice": 35,
+    "discount": "37%",
+    "rating": 4.3
+  },
+  {
+    "id": 65,
+    "name": "Action Figure Hero",
+    "category": "toys",
+    "image": "https://picsum.photos/seed/65/400/400",
+    "price": 25,
+    "oldPrice": 40,
+    "discount": "37%",
+    "rating": 4.7
+  },
+  {
+    "id": 66,
+    "name": "Leather Seat Covers",
+    "category": "automotive",
+    "image": "https://picsum.photos/seed/66/400/400",
+    "price": 150,
+    "oldPrice": 220,
+    "discount": "31%",
+    "rating": 4.5
+  },
+  {
+    "id": 67,
+    "name": "Gardening Gloves",
+    "category": "gardening",
+    "image": "https://picsum.photos/seed/67/400/400",
+    "price": 10,
+    "oldPrice": 15,
+    "discount": "33%",
+    "rating": 4.1
+  },
+  {
+    "id": 68,
+    "name": "Canvas High Tops",
+    "category": "footwear",
+    "image": "https://picsum.photos/seed/68/400/400",
+    "price": 35,
+    "oldPrice": 55,
+    "discount": "36%",
+    "rating": 4.4
+  },
+  {
+    "id": 69,
+    "name": "Floor Lamp Modern",
+    "category": "furniture",
+    "image": "https://picsum.photos/seed/69/400/400",
+    "price": 85,
+    "oldPrice": 130,
+    "discount": "34%",
+    "rating": 4.6
+  },
+  {
+    "id": 70,
+    "name": "Bluetooth Adapter",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/70/400/400",
+    "price": 15,
+    "oldPrice": 25,
+    "discount": "40%",
+    "rating": 4.5
+  },
+  {
+    "id": 71,
+    "name": "History Encyclopedia",
+    "category": "books",
+    "image": "https://picsum.photos/seed/71/400/400",
+    "price": 55,
+    "oldPrice": 75,
+    "discount": "26%",
+    "rating": 4.9
+  },
+  {
+    "id": 72,
+    "name": "Dog Chew Toy",
+    "category": "pet supplies",
+    "image": "https://picsum.photos/seed/72/400/400",
+    "price": 8,
+    "oldPrice": 12,
+    "discount": "33%",
+    "rating": 4.8
+  },
+  {
+    "id": 73,
+    "name": "Electric Kettle 1.7L",
+    "category": "kitchenware",
+    "image": "https://picsum.photos/seed/73/400/400",
+    "price": 35,
+    "oldPrice": 50,
+    "discount": "30%",
+    "rating": 4.6
+  },
+  {
+    "id": 74,
+    "name": "Yoga Block Pair",
+    "category": "sports equipment",
+    "image": "https://picsum.photos/seed/74/400/400",
+    "price": 15,
+    "oldPrice": 22,
+    "discount": "31%",
+    "rating": 4.4
+  },
+  {
+    "id": 75,
+    "name": "Liquid Foundation",
+    "category": "cosmetics",
+    "image": "https://picsum.photos/seed/75/400/400",
+    "price": 28,
+    "oldPrice": 40,
+    "discount": "30%",
+    "rating": 4.3
+  },
+  {
+    "id": 76,
+    "name": "Violin Rosin Pro",
+    "category": "musical instruments",
+    "image": "https://picsum.photos/seed/76/400/400",
+    "price": 12,
+    "oldPrice": 18,
+    "discount": "33%",
+    "rating": 4.7
+  },
+  {
+    "id": 77,
+    "name": "Gold Hoop Earrings",
+    "category": "jewelry",
+    "image": "https://picsum.photos/seed/77/400/400",
+    "price": 65,
+    "oldPrice": 90,
+    "discount": "27%",
+    "rating": 4.6
+  },
+  {
+    "id": 78,
+    "name": "Washi Tape Set",
+    "category": "stationery",
+    "image": "https://picsum.photos/seed/78/400/400",
+    "price": 12,
+    "oldPrice": 20,
+    "discount": "40%",
+    "rating": 4.9
+  },
+  {
+    "id": 79,
+    "name": "Building Blocks 500pcs",
+    "category": "toys",
+    "image": "https://picsum.photos/seed/79/400/400",
+    "price": 30,
+    "oldPrice": 45,
+    "discount": "33%",
+    "rating": 4.8
+  },
+  {
+    "id": 80,
+    "name": "Tire Pressure Gauge",
+    "category": "automotive",
+    "image": "https://picsum.photos/seed/80/400/400",
+    "price": 10,
+    "oldPrice": 15,
+    "discount": "33%",
+    "rating": 4.2
+  },
+  {
+    "id": 81,
+    "name": "Flower Bulbs Mix",
+    "category": "gardening",
+    "image": "https://picsum.photos/seed/81/400/400",
+    "price": 15,
+    "oldPrice": 25,
+    "discount": "40%",
+    "rating": 4.5
+  },
+  {
+    "id": 82,
+    "name": "Suede Loafers",
+    "category": "footwear",
+    "image": "https://picsum.photos/seed/82/400/400",
+    "price": 75,
+    "oldPrice": 110,
+    "discount": "31%",
+    "rating": 4.4
+  },
+  {
+    "id": 83,
+    "name": "Wall Mirror Circle",
+    "category": "furniture",
+    "image": "https://picsum.photos/seed/83/400/400",
+    "price": 45,
+    "oldPrice": 70,
+    "discount": "35%",
+    "rating": 4.7
+  },
+  {
+    "id": 84,
+    "name": "Gaming Mousepad RGB",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/84/400/400",
+    "price": 25,
+    "oldPrice": 40,
+    "discount": "37%",
+    "rating": 4.6
+  },
+  {
+    "id": 85,
+    "name": "Biography of a Leader",
+    "category": "books",
+    "image": "https://picsum.photos/seed/85/400/400",
+    "price": 20,
+    "oldPrice": 28,
+    "discount": "28%",
+    "rating": 4.8
+  },
+  {
+    "id": 86,
+    "name": "Flea Treatment",
+    "category": "pet supplies",
+    "image": "https://picsum.photos/seed/86/400/400",
+    "price": 35,
+    "oldPrice": 50,
+    "discount": "30%",
+    "rating": 4.5
+  },
+  {
+    "id": 87,
+    "name": "Mixing Bowls Set",
+    "category": "kitchenware",
+    "image": "https://picsum.photos/seed/87/400/400",
+    "price": 28,
+    "oldPrice": 40,
+    "discount": "30%",
+    "rating": 4.7
+  },
+  {
+    "id": 88,
+    "name": "Swimming Goggles",
+    "category": "sports equipment",
+    "image": "https://picsum.photos/seed/88/400/400",
+    "price": 15,
+    "oldPrice": 25,
+    "discount": "40%",
+    "rating": 4.3
+  },
+  {
+    "id": 89,
+    "name": "Nail Polish Set",
+    "category": "cosmetics",
+    "image": "https://picsum.photos/seed/89/400/400",
+    "price": 20,
+    "oldPrice": 30,
+    "discount": "33%",
+    "rating": 4.5
+  },
+  {
+    "id": 90,
+    "name": "Electric Guitar Strings",
+    "category": "musical instruments",
+    "image": "https://picsum.photos/seed/90/400/400",
+    "price": 10,
+    "oldPrice": 15,
+    "discount": "33%",
+    "rating": 4.9
+  },
+  {
+    "id": 91,
+    "name": "Nose Stud Gold",
+    "category": "jewelry",
+    "image": "https://picsum.photos/seed/91/400/400",
+    "price": 30,
+    "oldPrice": 45,
+    "discount": "33%",
+    "rating": 4.4
+  },
+  {
+    "id": 92,
+    "name": "Sketchbook A4",
+    "category": "stationery",
+    "image": "https://picsum.photos/seed/92/400/400",
+    "price": 12,
+    "oldPrice": 20,
+    "discount": "40%",
+    "rating": 4.8
+  },
+  {
+    "id": 93,
+    "name": "RC Quadcopter",
+    "category": "toys",
+    "image": "https://picsum.photos/seed/93/400/400",
+    "price": 45,
+    "oldPrice": 75,
+    "discount": "40%",
+    "rating": 4.2
+  },
+  {
+    "id": 94,
+    "name": "Engine Air Filter",
+    "category": "automotive",
+    "image": "https://picsum.photos/seed/94/400/400",
+    "price": 15,
+    "oldPrice": 25,
+    "discount": "40%",
+    "rating": 4.6
+  },
+  {
+    "id": 95,
+    "name": "Plant Support Stakes",
+    "category": "gardening",
+    "image": "https://picsum.photos/seed/95/400/400",
+    "price": 12,
+    "oldPrice": 20,
+    "discount": "40%",
+    "rating": 4.3
+  },
+  {
+    "id": 96,
+    "name": "Leather Sandals",
+    "category": "footwear",
+    "image": "https://picsum.photos/seed/96/400/400",
+    "price": 45,
+    "oldPrice": 70,
+    "discount": "35%",
+    "rating": 4.5
+  },
+  {
+    "id": 97,
+    "name": "Side Table Industrial",
+    "category": "furniture",
+    "image": "https://picsum.photos/seed/97/400/400",
+    "price": 55,
+    "oldPrice": 85,
+    "discount": "35%",
+    "rating": 4.6
+  },
+  {
+    "id": 98,
+    "name": "HDMI Cable 2m",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/98/400/400",
+    "price": 10,
+    "oldPrice": 18,
+    "discount": "44%",
+    "rating": 4.8
+  },
+  {
+    "id": 99,
+    "name": "Poetry Collection",
+    "category": "books",
+    "image": "https://picsum.photos/seed/99/400/400",
+    "price": 15,
+    "oldPrice": 22,
+    "discount": "31%",
+    "rating": 4.7
+  },
+  {
+    "id": 100,
+    "name": "Pet Grooming Brush",
+    "category": "pet supplies",
+    "image": "https://picsum.photos/seed/100/400/400",
+    "price": 14,
+    "oldPrice": 25,
+    "discount": "44%",
+    "rating": 4.9
+  }
+]
